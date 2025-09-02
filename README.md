@@ -11,3 +11,18 @@ This repository hosts a learning/portfolio project to model and analyze ERCOT Lo
 - Publish a clear, narrative README and artifacts for the portfolio.
 
 ## Project layout
+models/
+staging/
+core/
+sources.yml
+seeds/
+macros/
+snapshots/
+notes/
+
+## Status
+- [ ] Bootstrap complete
+- [ ] dbt build green
+- [ ] Power BI v1
+- [ ] Docs & portfolio
+
